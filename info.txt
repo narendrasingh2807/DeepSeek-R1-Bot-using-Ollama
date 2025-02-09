@@ -1,0 +1,20 @@
+# Project-1-DeepSeek-R1-Bot-using-Ollama
+
+For running this code in your system
+
+Step 1: You need to download Ollama first using link(https://ollama.com/) for you system like (windows/linux/mac).
+
+Step 2: After downloading you need to install Ollama just using double click on OllamaSetup.exe file
+
+Step 3: After above 2 steps you need to open cmd and just type Ollama you will get details of various command on cmd it means ollama is successfully install.
+
+Step 4: Run the command on cmd 'ollama pull deepseek-r1' or 'ollama run deepseek-r1' this will install deepseek-r1 model in you system (it will require 5GB minimum space on your system)
+
+Step 5: Open app.py file in IDE like VSCode and open terminal and run command 'streamlit run app.py' this will give you a link of the brower just click on that.
+
+Step 6: A new window open in your browser and program is running so wait a little bit it depends on your system configurations.
+
+Step 7: Enter your query and get answers 
+
+
+You can also interact with Deepseek R1 model using
